@@ -1,7 +1,7 @@
 {
   "name": "codember.dev",
   "version": "1.0.0",
-  "description": "Soluciones Codember.dev - Challenge 02",
+  "description": "Soluciones Codember.dev - Challenge 03",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmvicap/codember-22/challenge-02"
+    "url": "https://github.com/jmvicap/codember-22/challenge-03"
   }
 }
