@@ -1,0 +1,16 @@
+{
+  "name": "codember.dev",
+  "version": "1.0.0",
+  "description": "Soluciones Codember.dev - Challenge 05",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jmvicap",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmvicap/codember-22/challenge-05"
+  }
+}
